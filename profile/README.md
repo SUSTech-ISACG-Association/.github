@@ -1,14 +1,18 @@
 ## Hi there 👋
 
-SUSTech GAS Association is a team of developers from Turing Class 2021 at SUSTech, China.
+SUSTech ISACG Association is a team of talented developers collaborating on amazing projects at SUSTech, China.
 
 ## Members
 
-- [GuTao](https://github.com/GuTaoZi)
+- [IskXCr](https://github.com/IskXCr)
+
+- [ShadowStorm](https://github.com/Jayfeather233)
 
 - [Artanisax](https://github.com/Artanisax)
 
-- [ShadowStorm](https://github.com/Jayfeather233)
+- [Chanbengz](https://github.com/chanbengz)
+
+- [GuTao](https://github.com/GuTaoZi)
 
 <!--
 
